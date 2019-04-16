@@ -1,0 +1,4 @@
+## .gitignore file for ascii_art-scaffold
+
+## ignore folder fetched through gclient
+ascii_art
